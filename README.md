@@ -1,0 +1,1 @@
+This project is a visually appealing and responsive landing page for Royal Project Paints, built using HTML and CSS. The page features a royal and elegant design, showcasing key sections like a hero banner, product highlights, customer testimonials, and a contact form. It emphasizes clean typography
